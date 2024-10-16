@@ -1,4 +1,5 @@
 # Bouncing Circle Loader Animation
+![17290882345998664468257498960923](https://github.com/user-attachments/assets/4abe173a-f381-47f4-a376-65ae100959fc)
 
 This project showcases a bouncing circle loader animation created with HTML and CSS.
 
